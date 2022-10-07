@@ -1,0 +1,14 @@
+D:\TrainingTasks\InterfacesTask\InterfacesTask\bin\Debug\netcoreapp3.1\InterfacesTask.exe
+D:\TrainingTasks\InterfacesTask\InterfacesTask\bin\Debug\netcoreapp3.1\InterfacesTask.deps.json
+D:\TrainingTasks\InterfacesTask\InterfacesTask\bin\Debug\netcoreapp3.1\InterfacesTask.runtimeconfig.json
+D:\TrainingTasks\InterfacesTask\InterfacesTask\bin\Debug\netcoreapp3.1\InterfacesTask.runtimeconfig.dev.json
+D:\TrainingTasks\InterfacesTask\InterfacesTask\bin\Debug\netcoreapp3.1\InterfacesTask.dll
+D:\TrainingTasks\InterfacesTask\InterfacesTask\bin\Debug\netcoreapp3.1\InterfacesTask.pdb
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.csproj.AssemblyReference.cache
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.AssemblyInfoInputs.cache
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.AssemblyInfo.cs
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.csproj.CoreCompileInputs.cache
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.dll
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.pdb
+D:\TrainingTasks\InterfacesTask\InterfacesTask\obj\Debug\netcoreapp3.1\InterfacesTask.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\TrainingTasks\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\TrainingTasks\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\TrainingTasks\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\TrainingTasks\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\TrainingTasks\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\TrainingTasks\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\TrainingTasks\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

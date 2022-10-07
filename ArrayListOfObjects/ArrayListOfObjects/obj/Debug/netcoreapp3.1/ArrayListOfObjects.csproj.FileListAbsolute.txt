@@ -1,0 +1,14 @@
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\bin\Debug\netcoreapp3.1\ArrayListOfObjects.exe
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\bin\Debug\netcoreapp3.1\ArrayListOfObjects.deps.json
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\bin\Debug\netcoreapp3.1\ArrayListOfObjects.runtimeconfig.json
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\bin\Debug\netcoreapp3.1\ArrayListOfObjects.runtimeconfig.dev.json
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\bin\Debug\netcoreapp3.1\ArrayListOfObjects.dll
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\bin\Debug\netcoreapp3.1\ArrayListOfObjects.pdb
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.csproj.AssemblyReference.cache
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.AssemblyInfoInputs.cache
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.AssemblyInfo.cs
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.csproj.CoreCompileInputs.cache
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.dll
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.pdb
+D:\DotNetTrainingTasks\ArrayListOfObjects\ArrayListOfObjects\obj\Debug\netcoreapp3.1\ArrayListOfObjects.genruntimeconfig.cache

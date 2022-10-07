@@ -1,0 +1,14 @@
+D:\TrainingTasks\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.exe
+D:\TrainingTasks\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.deps.json
+D:\TrainingTasks\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.runtimeconfig.json
+D:\TrainingTasks\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.runtimeconfig.dev.json
+D:\TrainingTasks\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.dll
+D:\TrainingTasks\IsNumber\IsNumber\bin\Debug\netcoreapp3.1\IsNumber.pdb
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.csproj.AssemblyReference.cache
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.AssemblyInfoInputs.cache
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.AssemblyInfo.cs
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.csproj.CoreCompileInputs.cache
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.dll
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.pdb
+D:\TrainingTasks\IsNumber\IsNumber\obj\Debug\netcoreapp3.1\IsNumber.genruntimeconfig.cache
