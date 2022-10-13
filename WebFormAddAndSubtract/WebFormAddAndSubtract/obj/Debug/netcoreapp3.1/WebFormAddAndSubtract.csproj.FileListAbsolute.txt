@@ -1,0 +1,16 @@
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\bin\Debug\netcoreapp3.1\WebFormAddAndSubtract.exe
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\bin\Debug\netcoreapp3.1\WebFormAddAndSubtract.deps.json
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\bin\Debug\netcoreapp3.1\WebFormAddAndSubtract.runtimeconfig.json
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\bin\Debug\netcoreapp3.1\WebFormAddAndSubtract.runtimeconfig.dev.json
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\bin\Debug\netcoreapp3.1\WebFormAddAndSubtract.dll
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\bin\Debug\netcoreapp3.1\WebFormAddAndSubtract.pdb
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.csproj.AssemblyReference.cache
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.Form1.resources
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.csproj.GenerateResource.cache
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.AssemblyInfo.cs
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.dll
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.pdb
+C:\Users\mbukka\source\repos\WebFormAddAndSubtract\WebFormAddAndSubtract\obj\Debug\netcoreapp3.1\WebFormAddAndSubtract.genruntimeconfig.cache

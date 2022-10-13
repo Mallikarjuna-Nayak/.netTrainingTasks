@@ -6,7 +6,7 @@ namespace ConstructorAndDestructor
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter 3 persons names:");
             int total = 3;
             Person[] persons = new Person[total];
             for(int i = 0; i < total; i++)
@@ -29,7 +29,7 @@ namespace ConstructorAndDestructor
         }
         public override string ToString()
         {
-            return "My Name is " + Name;//base.ToString();
+            return $"My Name is {Name}";
         }
         ~Person()
         {

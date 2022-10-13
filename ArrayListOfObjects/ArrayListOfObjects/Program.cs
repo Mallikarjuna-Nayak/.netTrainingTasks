@@ -26,8 +26,6 @@ namespace ArrayListOfObjects
             {
                 Console.WriteLine(p.ToString());
             }
-
-            Console.ReadLine();
         }
     }
     class Person
@@ -36,8 +34,7 @@ namespace ArrayListOfObjects
         public int Age { get; set; }
         public override string ToString()
         {
-            return "Name: " + Name + " and " + "Age: " + Age;
-            //return base.ToString();
+            return $"Name: {Name} and Age: {Age}";
         }
     }
 }

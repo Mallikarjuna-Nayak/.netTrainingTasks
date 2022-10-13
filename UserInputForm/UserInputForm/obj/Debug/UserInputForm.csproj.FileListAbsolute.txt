@@ -1,0 +1,10 @@
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\bin\Debug\UserInputForm.exe.config
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\bin\Debug\UserInputForm.exe
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\bin\Debug\UserInputForm.pdb
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.csproj.AssemblyReference.cache
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.Form1.resources
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.Properties.Resources.resources
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.csproj.GenerateResource.cache
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.csproj.CoreCompileInputs.cache
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.exe
+C:\Users\mbukka\source\repos\UserInputForm\UserInputForm\obj\Debug\UserInputForm.pdb

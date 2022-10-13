@@ -20,10 +20,9 @@ namespace Arrays
                 // Condition for EVEN number
                 if(arr[i] % 2 == 0)
                 {
-                    Console.WriteLine(arr[i] + " is divisible by 2. So it's a EVEN number");
+                    Console.WriteLine($"{arr[i]} is divisible by 2. So It's a EVEN number");
                 }
             }
-            Console.WriteLine();
         }
     }
 }

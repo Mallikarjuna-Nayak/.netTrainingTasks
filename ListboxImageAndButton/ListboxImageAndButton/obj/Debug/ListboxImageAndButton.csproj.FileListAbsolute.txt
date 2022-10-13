@@ -1,0 +1,10 @@
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\bin\Debug\ListboxImageAndButton.exe.config
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\bin\Debug\ListboxImageAndButton.exe
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\bin\Debug\ListboxImageAndButton.pdb
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.csproj.AssemblyReference.cache
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.Form1.resources
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.Properties.Resources.resources
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.csproj.GenerateResource.cache
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.csproj.CoreCompileInputs.cache
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.exe
+C:\Users\mbukka\source\repos\ListboxImageAndButton\ListboxImageAndButton\obj\Debug\ListboxImageAndButton.pdb

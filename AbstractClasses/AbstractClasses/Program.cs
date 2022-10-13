@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace AbstractClasses
 {
@@ -30,10 +30,9 @@ namespace AbstractClasses
     {
         public override void Eat()
         {
-            bool isAlpha = GetName().All(Char.IsLetter);
-            if (isAlpha == true)
+            if (Regex.IsMatch(GetName(), @"^[a-zA-Z]+$"))
             {
-                Console.WriteLine(GetName() + " is eating");
+                Console.WriteLine($"{GetName()} is eating");
             }
             else
             {

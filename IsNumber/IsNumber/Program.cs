@@ -7,6 +7,7 @@ namespace IsNumber
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a number:");
             CheckIsNumeric(Console.ReadLine());
             
         }
@@ -15,11 +16,11 @@ namespace IsNumber
             var op = Regex.IsMatch(input, @"^\d+$");
             if(op == true)
             {
-                Console.WriteLine("Given input: " + input + " is a Number");
+                Console.WriteLine($"Given input: {input} is a Number");
             }
             else
             {
-                Console.WriteLine("Given input: " + input + " is not a Number");
+                Console.WriteLine($"Given input: {input} is not a Number");
             }
         }
     }

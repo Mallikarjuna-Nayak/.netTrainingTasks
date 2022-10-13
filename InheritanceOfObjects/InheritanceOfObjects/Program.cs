@@ -6,7 +6,6 @@ namespace InheritanceOfObjects
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
             Console.WriteLine("Enter 3 Persons name:");
             int totalStudent = 3;
             Person[] persons = new Person[totalStudent];
@@ -36,7 +35,6 @@ namespace InheritanceOfObjects
                     ((Student)persons[i]).Study();
                 }
             }
-            Console.ReadLine();
         }
     }
     public class Person
@@ -49,7 +47,7 @@ namespace InheritanceOfObjects
         }
         public override string ToString()
         {
-            return "My name is: " + Name;//base.ToString();
+            return $"My name is: {Name}";
         }
         ~Person()
         {
@@ -64,7 +62,7 @@ namespace InheritanceOfObjects
         }
         public void Explain()
         {
-            Console.WriteLine("My name is " + Name + ". I'm a teacher and I will explain");
+            Console.WriteLine($"My name is {Name}. I'm a teacher and I will explain");
         }
     }
     public class Student : Person
@@ -75,7 +73,7 @@ namespace InheritanceOfObjects
         }
         public void Study()
         {
-            Console.WriteLine("My name is " + Name + ". I'm a Student and I'll study");
+            Console.WriteLine($"My name is {Name}. I'm a Student and I'll study");
         }
     }
 }

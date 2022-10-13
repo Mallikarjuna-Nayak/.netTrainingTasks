@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "9 Digit Number";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Single UI screen for 9 digit number.</p>
+
+@model ButtonColorChange.Models.UniqueDigitNumber
+
+<div class="card">
+    <div class="card-header bg-primary text-white text-uppercase">
+        <h4>9 Digit Number</h4>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Enter 9 Digits</label>
+                        <input type="number" name="mobile_number" maxlength="9" class="form-control" id="mobile" placeholder="Example: 567894123" />
+                        <span asp-validation-for="mobile_number" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary rounded-0" name="submit" value="Submit" />
+            </div>
+        </form>
+    </div>
+</div>
+@ViewData["uniqueData"]

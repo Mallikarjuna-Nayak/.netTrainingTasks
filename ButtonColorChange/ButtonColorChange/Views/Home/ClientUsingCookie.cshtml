@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Register Form";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>User Form to work with cookie.</p>
+
+@model ButtonColorChange.Models.ClientUsingCookie
+
+<div class="card">
+    <div class="card-header bg-primary text-white text-uppercase">
+        <h4>Register form</h4>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">User Name</label>
+                        <input type="text" name="username" class="form-control" id="username" placeholder="Enter your Name" />
+                        <span asp-validation-for="username" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Address</label>
+                        <textarea name="address" id="address" class="form-control"></textarea>
+                        <span asp-validation-for="address" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Date of Birth</label>
+                        <input type="date" name="dob" class="form-control" id="dob" placeholder="Enter your dob" />
+                        <span asp-validation-for="dob" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Nationality</label>
+                        <input type="text" name="nationality" class="form-control" id="nationality" placeholder="Example: Indian" />
+                        <span asp-validation-for="nationality" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Country preferred for working</label>
+                        <select class="form-control" name="country">
+                            <option value="0">-Select Country-</option>
+                            <option value="India">India</option>
+                            <option value="Russia">Russia</option>
+                            <option value="Singapore">Singapore</option>
+                            <option value="Malaysia">Malaysia</option>
+                            <option value="Canada">Canada</option>
+                        </select>
+                        <span asp-validation-for="country" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Skill set</label>
+                        <textarea name="skill" id="skill" class="form-control" placeholder="Example: C#, Asp.Net, VB and etc;"></textarea>
+                        <span asp-validation-for="skill" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary rounded-0" name="submit" value="Submit" />
+            </div>
+        </form>
+    </div>
+</div>
+@ViewData["username"]
+<br />
+@ViewData["pay_mode"]
+<br />
+@ViewData["card_number"]
+<br />

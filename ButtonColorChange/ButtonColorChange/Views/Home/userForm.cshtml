@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "User input to validate the form";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>User Form.</p>
+
+@model ButtonColorChange.Models.UserForm
+
+<div class="card">
+    <div class="card-header bg-primary text-white text-uppercase">
+        <h4>User input such as the user name, mode of payment, appropriate credit card</h4>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">User Name</label>
+                        <input type="text" name="username" class="form-control" id="username" required placeholder="Enter UserName" />
+                        <span asp-validation-for="username" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Payment Type</label>
+                        <select name="pay_mode" required class="custom-select">
+                            <option>Select mode of payment</option>
+                            <option value="1">Debit Card</option>
+                            <option value="2">Credit Card</option>
+                        </select>
+                        <span asp-validation-for="pay_mode" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="lable-control">Card Number</label>
+                        <input type="text" name="card_number" class="form-control" id="card_num" placeholder="Enter Card Number" required />
+                        <span asp-validation-for="card_number" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary rounded-0" name="submit" value="Submit" />
+            </div>
+        </form>
+    </div>
+</div>
+@ViewData["username"]
+<br />
+@ViewData["pay_mode"]
+<br />
+@ViewData["card_number"]
+<br />
