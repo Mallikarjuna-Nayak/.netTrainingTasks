@@ -12,3 +12,17 @@ D:\TrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\Abstrac
 D:\TrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
 D:\TrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache
 D:\TrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.AssemblyReference.cache
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.AssemblyReference.cache
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\DotNetTrainingTasks\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

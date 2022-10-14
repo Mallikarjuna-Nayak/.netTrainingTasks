@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5OzvOINd9pdO2hpGy6/im9tvGWnBxNY6xwcNhx7sSYqgd4Q9vYcSDhJyn3L3KZ8T+Hd53poqosjYiQ8sWTEBg==",
+  "dgSpecHash": "9yvlxhnQtHQZl5Kj8HWvkqnDNob9onlf6nwOh8F7OA5fLtRhz7+Ve7xfexU8+SaIHvb4vAx12JH8q48Rz5ohqg==",
   "success": true,
-  "projectFilePath": "D:\\TrainingTasks\\IsNumber\\IsNumber\\IsNumber.csproj",
+  "projectFilePath": "D:\\DotNetTrainingTasks\\IsNumber\\IsNumber\\IsNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

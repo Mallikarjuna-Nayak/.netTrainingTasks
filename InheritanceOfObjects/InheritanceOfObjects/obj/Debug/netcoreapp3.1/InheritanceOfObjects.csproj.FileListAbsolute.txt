@@ -12,3 +12,17 @@ D:\TrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3
 D:\TrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.dll
 D:\TrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.pdb
 D:\TrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.genruntimeconfig.cache
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3.1\InheritanceOfObjects.exe
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3.1\InheritanceOfObjects.deps.json
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3.1\InheritanceOfObjects.runtimeconfig.json
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3.1\InheritanceOfObjects.runtimeconfig.dev.json
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3.1\InheritanceOfObjects.dll
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\bin\Debug\netcoreapp3.1\InheritanceOfObjects.pdb
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.csproj.AssemblyReference.cache
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.AssemblyInfoInputs.cache
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.AssemblyInfo.cs
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.csproj.CoreCompileInputs.cache
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.dll
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.pdb
+D:\DotNetTrainingTasks\InheritanceOfObjects\InheritanceOfObjects\obj\Debug\netcoreapp3.1\InheritanceOfObjects.genruntimeconfig.cache
