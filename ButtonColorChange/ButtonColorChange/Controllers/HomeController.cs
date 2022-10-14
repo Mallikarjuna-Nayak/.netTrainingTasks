@@ -89,6 +89,14 @@ namespace ButtonColorChange.Controllers
             }
             return View();
         }
+        public IActionResult DisplayFlowers()
+        {
+            return View();
+        }
+        public IActionResult YourAction()
+        {
+            return Content("Test");
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
